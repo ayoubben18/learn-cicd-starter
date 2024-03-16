@@ -11,7 +11,7 @@ on:
 #  It should build the app using the scripts/buildprod.sh script
 
 jobs:
-  deploy:
+  Deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
